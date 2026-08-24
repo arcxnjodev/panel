@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Arcxnjo",
+      "hasCanvas": false,
+      "bodyTextLen": 378,
+      "bodyTextHash": "132a334a0b4d1cc4709e6a469f0f378f843872fdcee549b41dc1215ffe2141db",
+      "bodyTextPrefix": "ARCXNJO // RANGE Fechar PAINEL Arcxnjo AIM ESP RCL Aimbot ESP No",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Arcxnjo",
+      "hasCanvas": false,
+      "bodyTextLen": 366,
+      "bodyTextHash": "c3d971f5e9108c213662f03543d4911f5ee166255f647423b963c138aeaac09e",
+      "bodyTextPrefix": "ARCXNJO // RANGE Fechar PAINEL Arcxnjo Aimbot ESP No Recoil GERA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
